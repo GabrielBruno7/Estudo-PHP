@@ -1,6 +1,6 @@
 <?php
 
-echo "Olá twitch " . PHP_EOL;
+echo "Olá Gabriel " . PHP_EOL;
 
 var_dump(value:13);
 var_dump(value:20000);
